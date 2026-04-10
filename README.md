@@ -1,2 +1,2 @@
-# tokyogameboys.github.io
-tokyogameboys.github.io
+# tokyogameboys.index.html
+tokyogameboys.index.html
